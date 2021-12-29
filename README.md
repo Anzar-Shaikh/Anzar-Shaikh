@@ -5,7 +5,9 @@
 
 - 💬 Ask me about **Java, Spring Boot, Angular, MySQL and any Web Development Stuff**
 
-- 📫 How to reach me **anzarshaikh373@gmail.com**
+- 📫 My email **anzarshaikh373@gmail.com**
+- 
+- 📫 My contact number **+91 9503849559**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
